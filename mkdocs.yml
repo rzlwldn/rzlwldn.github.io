@@ -50,3 +50,6 @@ nav:
     - "Python":
       - cheat-sheet/python-packaging.md
       - cheat-sheet/python-install-package.md
+    - "Docker":
+      - cheat-sheet/docker/install.md
+      - cheat-sheet/docker/portainer.md
